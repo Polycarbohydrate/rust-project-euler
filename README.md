@@ -5,3 +5,6 @@
 This repository contains my solutions for questions 1-100 of [Project Euler](https://projecteuler.net/). To respect their rules, I will not be posting solutions to questions that are above question 100.
 
 My username on [Project Euler](https://projecteuler.net/) is `Polycarbohydrate`.
+## My Statistics
+**Currently working on problem:** *11*
+![image](https://github.com/user-attachments/assets/8891c7f9-6985-43a7-a2c3-91d98e1d9e7e)
