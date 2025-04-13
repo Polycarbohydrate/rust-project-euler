@@ -26,7 +26,7 @@ fn j_calculations(input: u128) -> Vec<u128> {
     let mut j = i;
     while i * j < 110_000 {
         false_js.push(i * j);
-        j += 1;
+        j += i;
     }
     false_js
 }
