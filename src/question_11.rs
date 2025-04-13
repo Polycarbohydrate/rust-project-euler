@@ -49,12 +49,18 @@ fn main()   {
 
 fn horizontal(all: &Vec<u128>) -> u128 {
     let mut products = Vec::new();
-    for i in 0..all.len() - 3 {
-        let first = all[i];
-        let second = all[i + 1];
-        let third = all[i + 2];
-        let fourth = all[i + 3];
-        products.push(first * second * third * fourth);
+    for r in 0..20 {
+        for c in 0..17  {
+            let first_index: usize = r * 20 + c;
+            let second_index: usize = (r * 20 + c) + 1;
+            let third_index: usize = (r * 20 + c) + 2;
+            let fourth_index: usize = (r * 20 + c) + 3;
+            let first = all[first_index];
+            let second = all[second_index];
+            let third = all[third_index];
+            let fourth = all[fourth_index];
+            products.push(first * second * third * fourth);
+        }
     }
     products.sort();
     products.reverse();
@@ -63,12 +69,18 @@ fn horizontal(all: &Vec<u128>) -> u128 {
 
 fn vertical(all_columns: &Vec<u128>) -> u128 {
     let mut products = Vec::new();
-    for i in 0..all_columns.len() - 3 {
-        let first = all_columns[i];
-        let second = all_columns[i + 1];
-        let third = all_columns[i + 2];
-        let fourth = all_columns[i + 3];
-        products.push(first * second * third * fourth);
+    for r in 0..17 {
+        for c in 0..20  {
+            let first_index: usize = r * 20 + c;
+            let second_index: usize = (r * 20 + c) + 20;
+            let third_index: usize = (r * 20 + c) + 40;
+            let fourth_index: usize = (r * 20 + c) + 60;
+            let first = all_columns[first_index];
+            let second = all_columns[second_index];
+            let third = all_columns[third_index];
+            let fourth = all_columns[fourth_index];
+            products.push(first * second * third * fourth);
+        }
     }
     products.sort();
     products.reverse();
