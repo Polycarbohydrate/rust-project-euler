@@ -6,10 +6,8 @@ This repository contains my solutions for questions 1-100 of [Project Euler](htt
 
 My username on [Project Euler](https://projecteuler.net/) is `Polycarbohydrate`.
 ## My Statistics
-**Last updated:** *4/12/2025* (MM/DD/YYYY)
+**Last updated:** *4/20/2025* (MM/DD/YYYY)
 
-**Currently working on problem:** *12*
+**Currently working on problem:** *16*
 
-**I manually update the graph every week**
-
-![image](https://github.com/user-attachments/assets/8891c7f9-6985-43a7-a2c3-91d98e1d9e7e)
+![Polycarbohydrate](https://github.com/user-attachments/assets/f56fa630-2267-4572-8458-99931d1054e6)
