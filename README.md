@@ -10,4 +10,6 @@ My username on [Project Euler](https://projecteuler.net/) is `Polycarbohydrate`.
 
 **Currently working on problem:** *17*
 
+**Graph updated:** *4/19/2025* (MM/DD/YYYY)
+
 ![Polycarbohydrate](https://github.com/user-attachments/assets/f56fa630-2267-4572-8458-99931d1054e6)
