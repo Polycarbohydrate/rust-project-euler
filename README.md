@@ -8,6 +8,6 @@ My username on [Project Euler](https://projecteuler.net/) is `Polycarbohydrate`.
 ## My Statistics
 **Last updated:** *4/20/2025* (MM/DD/YYYY)
 
-**Currently working on problem:** *16*
+**Currently working on problem:** *17*
 
 ![Polycarbohydrate](https://github.com/user-attachments/assets/f56fa630-2267-4572-8458-99931d1054e6)
