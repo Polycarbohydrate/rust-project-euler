@@ -4,7 +4,7 @@
 //
 // x = 1
 // for i in range(1, 101):
-//	   x = x * i
+//     x = x * i
 // print(x)
 
 print(x)
