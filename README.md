@@ -12,4 +12,4 @@ My username on [Project Euler](https://projecteuler.net/) is `Polycarbohydrate`.
 
 **Graph updated:** *5/6/2025* (MM/DD/YYYY)
 
-![Paixiao](https://github.com/user-attachments/assets/0e8b4c41-d57e-4af8-bf7d-425d7fa88279)
+![Polycarbohydrate](https://github.com/user-attachments/assets/27202570-52cc-4c8e-9b49-9f7bf0935ca5)
