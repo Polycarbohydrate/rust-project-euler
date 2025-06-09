@@ -1,6 +1,6 @@
 # Problem 42
 ### Problem Analysis
-- The formula $t_n = 1/2(n)(n + 1)$ gives the $n$th triangular number.
+- The formula $t_n = 1/2(n)(n + 1)$ gives the $n$ th triangular number.
 - By converting a word's letters to their corresponding numbers (A=1, B=2, ..., Z=26), and then adding the numbers, we can find the word's value.
 - If the word's value is a triangular number, then the word is a triangular word.
 - There is a given text file with words that we need to check.
