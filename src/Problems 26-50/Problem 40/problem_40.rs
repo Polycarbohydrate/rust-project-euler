@@ -1,4 +1,4 @@
-// https://projecteuler.net/problem=39
+// https://projecteuler.net/problem=40
 use std::time::Instant;
 fn main() {
     let now = Instant::now();
