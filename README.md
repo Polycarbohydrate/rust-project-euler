@@ -11,3 +11,5 @@ My username on [Project Euler](https://projecteuler.net/) is `Polycarbohydrate`.
 **Currently working on problem:** *66*
 
 **Number of completed problems:** *95*
+
+<img width="360" height="470" alt="image" src="https://github.com/user-attachments/assets/d4685a57-50ad-4cab-b077-066d38931c14" />
